@@ -13,18 +13,13 @@
 .itoconnect_logo {
   height: 2.36111vw;
   width: 2.36111vw;
- /* position: relative;
- top:.7vw */
 }
 
 .itoconnect_name {
   font-family: "Space Grotesk";
   font-size: 1.25vw;
   font-weight: 700;
-  /* background-color: red !important; */
-  /* position: relative;
-  top:1vw */
-  /* padding: 1vw 0vw 3vw 0vw;; */
+
 }
 .itoconnect_name_footer_{
     margin-top: 2vw !important;
@@ -35,41 +30,7 @@ font-size: 0.972vw;
 font-weight: 400;
 color: #6A6A6A;
 line-height:1.555vw
-
-
 }
-
-.socia_main_block{
-    /* position: relative; */
-}
-.social_icons{
-    /* position: relative; */
-    /* left:5vw; */
-    /* top:-8vw; */
-}
-.fa:hover {
-    /* opacity: 0.7; */
-}
-.fa-facebook {
-    /* background: #3B5A98;
-  color: #FFFFFF;
-  font-size:2vw;
-  width: 2vw;
-  height:auto;
-  text-align: center;
-  border-radius: 50%; */
-}
-.fa-youtube-play {
-    /* font-size:2vw;
-    padding-left:17px;
-    color: white; */
-}
-.fa-instagram {
-  /* color: white;
-  font-size:2vw;
-  padding-left:17px; */
-}
-
 .social_icons img{
     height: 2.0833vw;
     width: 2.0833vw;

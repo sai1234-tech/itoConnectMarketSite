@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4611c925.css",
-    "main.js": "/static/js/main.b7973472.js",
+    "main.js": "/static/js/main.49af2963.js",
     "static/js/453.08edef8f.chunk.js": "/static/js/453.08edef8f.chunk.js",
     "static/media/seamless_integrationPagebg.png": "/static/media/seamless_integrationPagebg.d82592511abdb27690cb.png",
     "static/media/itoconnect_person_image_withallservices.png": "/static/media/itoconnect_person_image_withallservices.f5ea6b038b75b9bb14cd.png",
@@ -30,11 +30,11 @@
     "index.html": "/index.html",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "main.4611c925.css.map": "/static/css/main.4611c925.css.map",
-    "main.b7973472.js.map": "/static/js/main.b7973472.js.map",
+    "main.49af2963.js.map": "/static/js/main.49af2963.js.map",
     "453.08edef8f.chunk.js.map": "/static/js/453.08edef8f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4611c925.css",
-    "static/js/main.b7973472.js"
+    "static/js/main.49af2963.js"
   ]
 }

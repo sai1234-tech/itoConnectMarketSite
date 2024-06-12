@@ -1,0 +1,226 @@
+.itoconnect_market_footer_main_div{
+    background: #f7f6ff;
+}
+.itoconnect_marketsite_footer {
+   display: flex;  
+   justify-content: space-between;
+}
+.footer_logo_section_left{
+    padding:4.375vw 0vw 0vw 0vw;
+    margin-left: 8.375vw;
+     width: 20%;
+}
+.itoconnect_logo {
+  height: 2.36111vw;
+  width: 2.36111vw;
+ /* position: relative;
+ top:.7vw */
+}
+
+.itoconnect_name {
+  font-family: "Space Grotesk";
+  font-size: 1.25vw;
+  font-weight: 700;
+  /* background-color: red !important; */
+  /* position: relative;
+  top:1vw */
+  /* padding: 1vw 0vw 3vw 0vw;; */
+}
+.itoconnect_name_footer_{
+    margin-top: 2vw !important;
+}
+.itoconnect_name_footer_abbrevation{
+    font-family: "Space Grotesk";
+font-size: 0.972vw;
+font-weight: 400;
+color: #6A6A6A;
+line-height:1.555vw
+
+
+}
+
+.socia_main_block{
+    /* position: relative; */
+}
+.social_icons{
+    /* position: relative; */
+    /* left:5vw; */
+    /* top:-8vw; */
+}
+.fa:hover {
+    /* opacity: 0.7; */
+}
+.fa-facebook {
+    /* background: #3B5A98;
+  color: #FFFFFF;
+  font-size:2vw;
+  width: 2vw;
+  height:auto;
+  text-align: center;
+  border-radius: 50%; */
+}
+.fa-youtube-play {
+    /* font-size:2vw;
+    padding-left:17px;
+    color: white; */
+}
+.fa-instagram {
+  /* color: white;
+  font-size:2vw;
+  padding-left:17px; */
+}
+
+.social_icons img{
+    height: 2.0833vw;
+    width: 2.0833vw;
+    margin-top: 2vw;
+}
+.facebook{
+    margin-left: 1vw;;
+}
+.linkedin{
+    margin-left: 1vw;;
+
+}
+.footer_logo_section_right{
+   display: flex;
+   padding:4.375vw 0vw 1.5vw 0vw;
+
+}
+.footer_logo_section_right ul{
+    list-style-type: none;
+    margin-right: 8vw;
+}
+.footer_logo_section_right ul li {
+    color: #444444;
+    font-family: "Space Grotesk";
+font-size: 0.97222vw;
+font-weight: 400;
+line-height: 2vw;
+
+}
+
+.itoconnect_footer_bottom_line{
+   background:  #F7F6FF;
+   /* background-color: red; */
+   /* height: 0.1vw; */
+   width: 82vw;
+   /* background-color: red; */
+   margin-left:8vw;
+   border-top:0.1vw red;
+   border-top: thin solid #73779C;
+}
+.itoconnect_footer_bottom_line span{
+    display: flex;
+    justify-content: center;
+    font-family: "Space Grotesk";
+font-size: 1.111vw;
+font-weight: 400;
+color: #060336;
+padding: 2vw 0vw 2vw 0vw;
+
+}
+
+
+@media screen and (max-width:767px) {
+ 
+    .itoconnect_market_footer_main_div {
+        background: #f7f6ff;
+        /* background-color: red; */
+        padding: 15vw 0vw 2vw 0vw;
+
+    }
+    .itoconnect_marketsite_footer {
+        display: flex;
+        /* justify-content: space-between; */
+        flex-direction: column;
+    }
+    .footer_logo_section_left {
+        padding: 4.375vw 0vw 4.375vw 0vw;
+        margin-left: 8.375vw;
+        width: 84%;
+        /* background-color: red; */
+    }
+    .itoconnect_log_text{
+        display: flex;
+        justify-content: center;
+    }
+    .itoconnect_logo {
+        height: 9.4444vw;
+        width: 9.4444vw;
+    }
+    .itoconnect_name {
+        font-family: "Space Grotesk";
+        font-size: 5vw;
+        font-weight: 700;
+        margin-left: 2vw;
+        margin-top: 2.3vw;
+    }
+    .itoconnect_name_footer_{
+       margin-top: 8vw;
+       text-align: center;
+    }
+    .itoconnect_name_footer_abbrevation {
+        font-family: "Space Grotesk";
+        font-size: 3.888vw;
+        font-weight: 400;
+        color: #6A6A6A;
+        line-height: 6.222vw;    
+    }
+    .social_icons{
+        display: flex;
+        justify-content: center;
+    }
+    .social_icons img{
+        height: 8.33vw;
+        width: 8.33vw;;
+        margin-top: 10vw;
+    }
+    .facebook{
+        margin-left: 4vw;;
+    }
+    .linkedin{
+        margin-left: 4vw;;
+    }
+    .footer_logo_section_right {
+        display: flex;
+    }
+    .ul_li{
+        margin-left:6vw
+    }
+    .footer_logo_section_right ul{
+        margin-left: 0vw !important;
+        padding: 0vw;
+        /* width: 34vw; */
+        /* background-color: red; */
+    }
+    .footer_logo_section_right ul li {
+        color: #444444;
+        font-family: "Space Grotesk";
+        font-size: 3.888vw;
+        font-weight: 400;
+        line-height: 8.222vw;
+        /* margin-left:8vw; */
+
+    }
+    .footer_logo_section_right ul li b{
+     font-size:4.444vw;
+     font-weight: 700;
+    }
+    .itoconnect_footer_bottom_line {
+        background: #F7F6FF;
+        /* background-color: red; */
+        width: 82vw;
+        margin-left: 8vw;
+        border-top: thin solid #73779C;
+    }
+    .itoconnect_footer_bottom_line span {
+        display: flex;
+        justify-content: center;
+        font-family: "Space Grotesk";
+        font-size: 4.4444vw;
+        font-weight: 400;
+        color: #060336;
+        padding: 4vw 0vw 4vw 0vw;
+    }
+}

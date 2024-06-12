@@ -1,0 +1,308 @@
+
+.pricing_page_get_whatapp_business_api{
+  padding: 8vw 0vw 3vw 0vw;
+}
+.pricing_page_get_whatapp_business_api_abbrevation{
+    width: 70vw;
+    margin-left: 15.768vw;
+}
+.pricing_page_get_whatapp_business_api_abbrevation span{
+    font-family: "Space Grotesk";
+font-size: 2.777vw;
+font-weight: 700;
+line-height:3.4444vw;
+text-align: center !important;
+color: #060336;
+display: flex;
+justify-content: center;
+}
+.pricing_page_subscriptions_page_main_div{
+   width: 50vw;;
+   /* background-color: red; */
+   margin-left: 9.375vw;
+   padding: 2vw 0vw 3vw 0vw;
+}
+#pills-tab{
+   width: 26vw;
+   margin-left:29vw !important;
+   /* background-color: green; */
+   padding: 1vw 0vw 2vw 0vw;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: #0d6efd;
+    color: #046A38;
+    font-family: "Space Grotesk";
+font-size: 1.4583vw;
+font-weight: 700;
+text-align: center;
+background: none;
+
+}
+
+
+.nav-pills .nav-link {
+    background: 0 0;
+    border: 0;
+    border-radius: .25rem;
+    color: #9BC3AF;
+    font-family: "Space Grotesk";
+    font-size: 1.4583vw;
+    font-weight: 500;
+text-align: center;
+
+}
+
+
+.monthly_tab_menu{
+    display: flex;
+    width: 80vw;
+}
+.monthly_tab_menu1{
+  border: 0.3px solid #73779C;
+  border-radius: 5px;
+  padding: 1vw 1vw 0vw 1vw;
+  width: 25.69vw;
+  /* background-color: orange; */
+}
+.growth_img_{
+    width: 23.05vw;
+height: 10.27vw;
+border-radius: 10px 0px 0px 0px;
+/* padding: 1vw 1vw 0vw 1vw; */
+
+}
+.growth_price_tag{
+    /* background-color: red; */
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 15vw;
+    /* margin-top:2vw; */
+    margin-left: 4vw;
+    padding: 2vw 0vw 0vw 0vw;
+    /* background-color: red; */
+
+}
+.growth_price_tag h4{
+    font-family: "Space Grotesk";
+font-size: 2.5vw;
+font-weight: 700;
+text-align: center !important;
+color: #060336;
+align-items: center !important;
+
+}
+.growth_price_tag p{
+    font-family: "Space Grotesk";
+font-size: 0.9722vw;
+font-weight: 400;
+text-align: center;
+color: #444444;
+
+}
+.line_{
+    width: 18.4722vw;
+    border:1px solid #73779C;
+    margin-left:2.5vw
+}
+.growth_description{
+padding: 1.5vw 0vw 1vw 0vw;
+/* background-color: red; */
+}
+.growth_description p{
+    font-family: "Space Grotesk";
+    font-size: 1.3888vw;
+    font-weight: 400;
+    text-align: center;
+    color: #444444;
+    line-height: 2.2vw;
+}
+.start_free_trail_growth{
+    width: 18.8194vw;
+height: 3.75vw;
+border-radius: 6px;
+border: 0.2px 0px 0px 0px;
+opacity: 0px;
+background: #F8F9FD;
+font-family: "Space Grotesk";
+font-size: 1.111vw;
+font-weight: 500;
+color: #060336;
+
+
+}
+.verified_div_{
+    font-family: "Space Grotesk";
+    font-size: 2.5vw;
+    font-weight: 700;
+    text-align: center !important;
+    color: #060336;
+    align-items: center !important;
+    padding: 1vw;
+}
+.monthly_tab_menu2{
+    /* border: 0.3px solid #73779C; */
+    border-radius: 6px;
+    padding: 1vw 1vw 0vw 1vw;
+    width: 28vw;
+    margin-left:3vw;
+    width: 25.69vw;
+    background: #FFFFFF;
+    box-shadow: 0 4px 8px rgba(0,0,0,.4);
+
+  /* background-color: orange; */
+  }
+  .monthly_tab_menu3{
+    border: 0.3px solid #73779C;
+    border-radius: 5px;
+    padding: 1vw 1vw 0vw 1vw;
+    /* width: 28vw; */
+    margin-left:3vw;
+    width: 25.69vw;
+  /* background-color: orange; */
+
+  }
+
+  /* plan_benifits */
+  .pricing_page_plan_benifits_main_div{
+     padding: 3vw 0vw 2vw 0vw;
+  }
+  .plan_benifits_abbrevations{
+    font-family: "Space Grotesk";
+font-size: 2.777vw;
+font-weight: 700;
+text-align: center;
+color: #060336;
+padding: 1.5vw 0vw 1.5vw 0vw;
+
+  }
+  .dd{
+    display: flex;
+    margin-left:28.5vw;
+    width: 60.5vw;
+    padding: 1vw 0vw 1vw 0vw;
+    /* background-color: red; */
+
+  }
+  .dd span{
+    font-family: "Space Grotesk";
+font-size: 1.1666vw;
+font-weight: 500;
+text-align: center;
+color: #FF854C;
+
+  }
+  .growth_div_ span{
+    margin-left:7vw;
+
+  }
+  .advanced_mian_div_{
+    margin-left:15vw;
+  }
+  .enterprise_maind_div{
+    margin-left:14vw;
+  }
+  .enterprise_maind_div span{
+    color: #993E13;
+
+  }
+  .pricing_page_plan_benifits_main_sub_div{
+   margin-left: 7.375vw;
+   display: flex;
+   padding: 0vw 0vw 3vw 0vw;
+   width: 81.3vw;
+
+  }
+  .plain_benifits_lists{
+    width: 20vw;
+    padding: 1vw 0vw 0vw 0vw;
+
+  }
+  .plain_benifits_lists ul li{
+    list-style: none;
+    font-family: "Space Grotesk";
+font-size: 1.388vw;
+font-weight: 500;
+line-height: 4.2vw;
+color: #585858;
+
+  }
+  .plain_benifits_lists_2{
+    margin-left: 2vw;
+  }
+  .tick_{
+    width: 1.944vw;
+    height: 1.94vw;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  .plain_benifits_lists_2,
+  .plain_benifits_lists_3,
+  .plain_benifits_lists_4
+  {
+    width: 20.833vw;
+    background: #F4F4F4;
+    border: 0.5px solid #00000066;
+    padding: 1.5vw 0vw 0vw 0vw;
+  }
+  .plain_benifits_lists_2 ul,
+  .plain_benifits_lists_3 ul,
+  .plain_benifits_lists_4 ul
+  {
+    list-style: none;
+    /* line-height: 3vw; */
+
+  }
+  .plain_benifits_lists_2 ul li,
+  .plain_benifits_lists_3 ul li,
+  .plain_benifits_lists_4 ul li{
+    margin-bottom: 2.05vw;
+    /* background-color: red; */
+    margin-top: 1vw;
+    width: 15vw;
+
+  }
+  .plain_benifits_lists_2 li,
+  .plain_benifits_lists_3 li,
+  .plain_benifits_lists_4 li{
+    font-family: "Space Grotesk";
+font-size: 1.04166vw;
+font-weight: 400;
+line-height: 1.29166vw;
+text-align: center;
+color: #5E5E5E;
+
+  }
+  .pricing_page_for_moreinformations_click_context{
+    display: flex;
+    justify-content: space-around !important;
+  }
+  .pricing_page_for_moreinformations_click_context span{
+    font-family: "Space Grotesk";
+font-size: 1.111vw;
+font-weight: 400;
+line-height: 1.377vw;
+color: #CC5219;
+
+  }
+  .more_information_sub_div{
+    width: 22vw;
+  }
+  .click_here{
+    color: #046A38;
+    text-decoration: underline;
+    text-decoration-color: #046A38;
+
+  }
+  .pricing_page_for_moreinformations_click_context p{
+    font-family: "Space Grotesk";
+    font-size: 1.111vw;
+    font-weight: 400;
+    line-height: 1.377vw;
+    color: #CC5219;
+    margin-top: 2vw;
+  }
+   .more_information_sub_div_2{
+    width: 36vw;
+  }

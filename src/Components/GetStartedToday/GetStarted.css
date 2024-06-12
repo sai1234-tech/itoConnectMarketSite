@@ -1,0 +1,98 @@
+.itoConnect_today{
+    display: flex;
+    margin-top: 0vw;
+   background: url('../../Assests/todaybg.png');
+   background-size: cover;
+  background-repeat: no-repeat;
+  }
+  .itoconnect_today_abbrevation {
+    margin-left: 9.375vw;
+    padding: 5vw 0vw 4vw 0vw;
+  }
+  .itoconnect_today_abbrevation span{
+    font-family: "Space Grotesk";
+  font-size: 3.125vw;
+  font-weight: 700;
+  line-height:3.875vw;
+  color: #212121;
+  
+  }
+  .itoconnect_today_abbrevation ul{
+    margin-top:2vw;
+  }
+  .itoconnect_today_abbrevation li{
+    color:#383838;
+    font-family: "Space Grotesk";
+  font-size: 1.1111vw;
+  font-weight: 400;
+  line-height: 1.9111vw;
+  
+  }
+  .try_for_free_div_{
+    margin-top:10vw;
+    margin-left: 6vw;
+  }
+  .try_for_free_button{
+    border:none;
+    width:14.30vw;
+  height: 4.513888vw;
+  border-radius: 6px;
+  opacity: 0px;
+  font-family: "Space Grotesk";
+  font-size: 1.38888vw;
+  font-weight: 600 !important;
+  color: #060336;
+  
+  }
+  
+  @media screen and (max-width:767px){
+
+    .itoConnect_today {
+        display: flex;
+        flex-direction: column;
+        padding: 6vw 0vw 20vw 0vw;
+        background-color: none !important;
+        background-size: cover;
+        background-image: url('../../Assests/today_mobile.png');
+      }
+      .itoconnect_today_abbrevation {
+        margin-left: 5.375vw;
+        /* background-color: red; */
+      }
+      .itoconnect_today_abbrevation span {
+        font-family: "Space Grotesk";
+        font-size: 8.8888vw;
+        font-weight: 700;
+        line-height: 11vw;
+        color: #212121;
+      }
+      .itoconnect_today_abbrevation ul{
+        /* background-color: red; */
+        padding: 5vw;
+      }
+      .itoconnect_today_abbrevation li {
+        color: #383838;
+        font-family: "Space Grotesk";
+        font-size: 3.8888vw;
+        font-weight: 400;
+        line-height: 6.68888vw;
+      }
+      .try_for_free_div_ {
+        margin-top: 10vw;
+        margin-left: 26vw;
+      }
+      .try_for_free_button {
+        border: none;
+        width: 44.4444vw;
+        height: 13.888vw;
+        border-radius: 6px;
+        opacity: 0px;
+        font-family: "Space Grotesk";
+        font-size: 4.444vw;
+        font-weight: 600 !important;
+        color: #060336;
+      }
+      
+
+
+  }

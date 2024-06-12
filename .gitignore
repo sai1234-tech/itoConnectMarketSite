@@ -1,0 +1,7 @@
+# Node.js
+/node_modules
+
+
+# Dependency directories
+# General
+.DS_Store

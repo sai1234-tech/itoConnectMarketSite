@@ -1,0 +1,152 @@
+.header-background {
+  background:#E1F1E9;
+  height: 5.222vw !important;
+  width: 100%;
+  position: fixed;
+  z-index: 9999;
+  box-shadow: 0px 4px 8px 0px #00000026 !important;
+
+}
+.header {
+  display: flex;
+  padding: 1vw;
+}
+.logo img {
+  width: 3.125vw;
+  height: 3.125vw;
+  margin-top: 0vw;
+  margin-left: 8.375vw;
+}
+.nav {
+  margin-left: 12vw !important;
+}
+.nav > a {
+  margin-right: 4.46666vw;
+  transition: all 150ms ease-in-out;
+  font-family: "Space Grotesk";
+  font-size: 1.38888vw;
+  font-weight: 500;
+  color: #444444;
+  margin-top: .3vw !important;
+}
+a,
+a:hover {
+  text-decoration: none;
+}
+a:focus {
+  text-decoration: none;
+}
+
+.log_in {
+  background-color: #ffffff;
+  border-radius: 6px;
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.11vw;
+  padding: 0.79444vw 0.972222vw;
+  border: none;
+  opacity: 0px;
+  color: #046a38;
+  margin-left: 9vw !important;
+}
+.reach {
+  background-color: #046a38;
+  border-radius: 6px;
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.11vw;
+  padding: 0.79444vw 0.972222vw;
+  color: #ffffff;
+  position: relative;
+  border: none;
+  margin-left: 1.6vw !important;
+}
+.mob-open {
+  display: none;
+}
+.logo_mobile img {
+    display: none;
+  }
+
+@media screen and (max-width: 767px) {
+  .header-background {
+    display: none;
+  }
+  .mob_menu_navbar {
+    height: 16.166666vw;
+    box-shadow: 0px 4px 4px rgba(152, 152, 152, 0.25);
+    width: 100%;
+    background:#E1F1E9;
+    width: 100%;
+    position: fixed;
+    z-index: 9999;
+  }
+  .logo_mobile img {
+    width: 11.111vw;
+    height: 11.111vw;
+    margin-top: 2.777vw;
+    display: block;
+    margin-left: 5vw;
+  }
+  .mob-open {
+    display: block;
+    position: relative;
+    left: 83vw;
+    width: 12.7777vw;
+    height: 12.7777vw;
+    top: -12.16vw;
+  }
+
+  .mob-list {
+    width: 100%;
+    position: absolute;
+    right: 0;
+    top: 15vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+    gap: 4vw;
+    z-index: 1040;
+    background: #f3f5f8;
+    /* padding: 4vw; */
+    padding: 2vw 0vw 3vw 0vw;
+    font-size: 4.4444vw;
+    font-family: "Space Grotesk";
+    font-weight: 500;
+    transition: all 0.5s ease-out;
+    background: #E1F1E9;
+
+  }
+  .mob-list__item {
+    color: #333333;
+  }
+  .log_in_mobile{
+    background-color: #ffffff;
+    border-radius: 6px;
+    font-family: "Space Grotesk";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 4.11vw;
+    padding: 1.79444vw 1.972222vw;
+    border: none;
+    opacity: 0px;
+    color: #046a38;
+  }
+  .reach_mobile{
+    background-color: #046a38;
+    border-radius: 6px;
+    font-family: "Space Grotesk";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 4.11vw;
+    padding: 1.79444vw 1.972222vw;
+    color: #ffffff;
+    position: relative;
+    border: none;
+  }
+  
+ 
+}
